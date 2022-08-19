@@ -1,1 +1,5 @@
 i want to know what branch used for
+if i make change to new branch. what will happen?
+
+can i make commit to main branch?
+how to do?
