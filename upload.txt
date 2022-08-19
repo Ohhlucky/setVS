@@ -1,0 +1,11 @@
+first
+create respo at github
+and download to desktop
+then open it at VS 
+then you update any file 
+then add it to stage
+then make a commit
+then the github destop will dectect the change
+//ALT+Z can auto dent
+then update the change using destop github.
+try it!
