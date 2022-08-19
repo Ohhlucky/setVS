@@ -1,0 +1,12 @@
+now i know branch
+branch is a copy of orginnal code
+then you can edit it
+when you confirm the change is good
+you can merge it to the orginnal code
+let 's try
+
+the branch icon is at the bottom left of VS
+you can create a new branch and edit it
+then wait github to responbe and sycn
+
+haha ,then it sycn to the destop VS
