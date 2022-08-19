@@ -1,0 +1,6 @@
+now i know branch
+branch is a copy of orginnal code
+then you can edit it
+when you confirm the change is good
+you can merge it to the orginnal code
+let 's try
